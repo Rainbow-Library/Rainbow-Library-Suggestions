@@ -1,11 +1,11 @@
----
 name: World Bug Report
 about: Create a World Bug Report
 title: ''
 labels: bug, World
 assignees: ''
 
----
+
+> Note: Please report one bug per issue when possible. Multiple bugs are okay if they are closely related (e.g., all tables in the cafe are floating). Submitting many unrelated bugs in a single report makes tracking and fixing them more difficult.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
